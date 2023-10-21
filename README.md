@@ -2,8 +2,8 @@
 
 <h2>Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: User Ticket Creation](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [How to create a Virtual Machine using Windows 10 in Microsoft Azure ](https://github.com/joshmadakorcc/ticket-lifecycle)
 
 
 <h2>Connect with me:</h2>
