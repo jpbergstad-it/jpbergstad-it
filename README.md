@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [How to create a Virtual Machine using Windows 10 in Microsoft Azure ](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [How to create a Virtual Machine using Windows 10 in Microsoft Azure ]((https://github.com/jpbergstad-it/How-to-create-a-Virtual-Machine))
 
 
 <h2>Connect with me:</h2>
